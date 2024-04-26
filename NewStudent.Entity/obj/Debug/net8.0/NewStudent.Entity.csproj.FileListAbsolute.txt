@@ -1,0 +1,14 @@
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\bin\Debug\net8.0\NewStudent.Entity.deps.json
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\bin\Debug\net8.0\NewStudent.Entity.runtimeconfig.json
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\bin\Debug\net8.0\NewStudent.Entity.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\bin\Debug\net8.0\NewStudent.Entity.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.AssemblyInfo.cs
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\refint\NewStudent.Entity.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\NewStudent.Entity.genruntimeconfig.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Entity\obj\Debug\net8.0\ref\NewStudent.Entity.dll

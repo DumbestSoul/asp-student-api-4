@@ -1,0 +1,11 @@
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\bin\Debug\net8.0\NewStudent.ViewModels.deps.json
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\bin\Debug\net8.0\NewStudent.ViewModels.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\bin\Debug\net8.0\NewStudent.ViewModels.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.AssemblyInfo.cs
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\refint\NewStudent.ViewModels.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\NewStudent.ViewModels.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.ViewModels\obj\Debug\net8.0\ref\NewStudent.ViewModels.dll

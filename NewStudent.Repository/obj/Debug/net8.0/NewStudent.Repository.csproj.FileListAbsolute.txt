@@ -1,0 +1,17 @@
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.Repository.deps.json
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.Repository.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.Repository.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.Entity.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.ViewModels.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.Entity.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\bin\Debug\net8.0\NewStudent.ViewModels.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.csproj.AssemblyReference.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.AssemblyInfoInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.AssemblyInfo.cs
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.csproj.CoreCompileInputs.cache
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStude.88D1CCD0.Up2Date
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\refint\NewStudent.Repository.dll
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\NewStudent.Repository.pdb
+E:\C#\C#_REPOS\NewStudent.API\NewStudent.Repository\obj\Debug\net8.0\ref\NewStudent.Repository.dll
